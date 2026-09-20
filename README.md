@@ -8,10 +8,10 @@ My solutions to LeetCode problems, organized by problem.
 | Problem | Difficulty |
 |---|---|
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium |
-| [Longuest Substring Without Repeating Characters](https://leetcode.com/problems/longuest-substring-without-repeating-characters/) | Unknown |
-| [Medianof Two Sorted Arrays](https://leetcode.com/problems/medianof-two-sorted-arrays/) | Unknown |
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium |
+| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard |
 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy |
-| [Two Sums](https://leetcode.com/problems/two-sums/) | Unknown |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | Easy |
 <!-- LEETCODE_TABLE_END -->
 
 ## Topics

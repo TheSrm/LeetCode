@@ -1,59 +1,57 @@
-
 # 3498. Reverse Degree of a String
 
 [Enlace al problema](https://leetcode.com/problems/reverse-degree-of-a-string/?envType=daily-question&envId=2026-09-20)
 
-Dada una cadena `s`, calcula su **grado inverso**.
+Given a string `s`, calculate its **reverse degree**.
 
-El grado inverso se calcula de la siguiente manera:
+The reverse degree is calculated as follows:
 
-- Cada carácter tiene un valor según el alfabeto invertido:
-    - `a = 26`
-    - `b = 25`
-    - `...`
-    - `z = 1`
-- Se multiplica el valor de cada carácter por su posición en la cadena.
-- Las posiciones comienzan desde `1`.
-- Se suman todos los productos.
+* Each character has a value according to the reversed alphabet:
 
-## Ejemplo 1
+  * `a = 26`
+  * `b = 25`
+  * `...`
+  * `z = 1`
+* Multiply the value of each character by its position in the string.
+* Positions start from `1`.
+* Add all the products together.
+
+## Example 1
 
 ```text
-Entrada: s = "abc"
-Salida: 148
+Input: s = "abc"
+Output: 148
 ```
 
-| Carácter | Valor en el alfabeto invertido | Posición | Producto |
-|:--------:|:------------------------------:|:--------:|:--------:|
-| `a`      | 26                             | 1        | 26       |
-| `b`      | 25                             | 2        | 50       |
-| `c`      | 24                             | 3        | 72       |
+| Character | Value in the reversed alphabet | Position | Product |
+| :-------: | :----------------------------: | :------: | :-----: |
+|    `a`    |               26               |     1    |    26   |
+|    `b`    |               25               |     2    |    50   |
+|    `c`    |               24               |     3    |    72   |
 
 ```text
 26 + 50 + 72 = 148
 ```
 
-## Ejemplo 2
+## Example 2
 
 ```text
-Entrada: s = "zaza"
-Salida: 160
+Input: s = "zaza"
+Output: 160
 ```
 
-| Carácter | Valor en el alfabeto invertido | Posición | Producto |
-|:--------:|:------------------------------:|:--------:|:--------:|
-| `z`      | 1                              | 1        | 1        |
-| `a`      | 26                             | 2        | 52       |
-| `z`      | 1                              | 3        | 3        |
-| `a`      | 26                             | 4        | 104      |
+| Character | Value in the reversed alphabet | Position | Product |
+| :-------: | :----------------------------: | :------: | :-----: |
+|    `z`    |                1               |     1    |    1    |
+|    `a`    |               26               |     2    |    52   |
+|    `z`    |                1               |     3    |    3    |
+|    `a`    |               26               |     4    |   104   |
 
 ```text
 1 + 52 + 3 + 104 = 160
 ```
 
-## Restricciones
+## Constraints
 
-- `1 <= s.length <= 1000`
-- `s` contiene únicamente letras minúsculas del alfabeto inglés.
-1 <= s.length <= 1000
-s contains only lowercase English letters. 
+* `1 <= s.length <= 1000`
+* `s contains only lowercase English letters.`

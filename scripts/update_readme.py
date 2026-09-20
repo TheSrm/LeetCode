@@ -1,4 +1,3 @@
-```python
 import json
 import re
 import urllib.request
@@ -188,11 +187,11 @@ def update_readme():
     table = build_table()
 
     new_content = (
-        content[:start]
-        + "\n"
-        + table
-        + "\n"
-        + content[end:]
+            content[:start]
+            + "\n"
+            + table
+            + "\n"
+            + content[end:]
     )
 
     if new_content == content:
@@ -206,4 +205,4 @@ def update_readme():
 
 if __name__ == "__main__":
     update_readme()
-```
+

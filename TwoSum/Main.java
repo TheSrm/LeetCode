@@ -1,4 +1,4 @@
-package org.LeetCode.TwoSums;
+package org.LeetCode.TwoSum;
 
 import java.util.HashMap;
 import java.util.Map;

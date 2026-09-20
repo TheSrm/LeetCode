@@ -8,6 +8,7 @@ My solutions to LeetCode problems, organized by problem.
 | Problem | Difficulty |
 |---|---|
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium |
+| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium |
 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard |
 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy |

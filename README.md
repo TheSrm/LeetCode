@@ -14,6 +14,7 @@ My solutions to LeetCode problems, organized by problem.
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy |
 <!-- LEETCODE_TABLE_END -->

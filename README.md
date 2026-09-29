@@ -18,10 +18,11 @@ My solutions to LeetCode problems, organized by problem.
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy |
+| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | Easy |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy |
-| ? | [Last Stone Weigth](https://leetcode.com/problems/last-stone-weigth/) | Unknown |
 | ? | [Integerto Roman](https://leetcode.com/problems/integerto-roman/) | Unknown |
+| ? | [Last Stone Weigth](https://leetcode.com/problems/last-stone-weigth/) | Unknown |
 | ? | [Pow XN](https://leetcode.com/problems/pow-xn/) | Unknown |
 <!-- LEETCODE_TABLE_END -->
 

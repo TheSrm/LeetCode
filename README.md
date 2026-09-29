@@ -19,6 +19,7 @@ My solutions to LeetCode problems, organized by problem.
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy |
+| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | Easy |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy |
 | ? | [Integerto Roman](https://leetcode.com/problems/integerto-roman/) | Unknown |

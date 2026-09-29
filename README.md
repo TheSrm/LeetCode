@@ -18,6 +18,8 @@ My solutions to LeetCode problems, organized by problem.
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Medium |
+| 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy |
